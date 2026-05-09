@@ -4,7 +4,7 @@ import './Home.css';
 
 const Home = () => {
   const socialLinks = [
-    { icon: 'github', url: 'https://github.com', label: 'GitHub' },
+    { icon: 'github', url: 'https://github.com/Palakmeena', label: 'GitHub' },
     { icon: 'instagram', url: 'https://instagram.com', label: 'Instagram' },
     { icon: 'twitter', url: 'https://twitter.com', label: 'Twitter' },
     { icon: 'discord', url: 'https://discord.com', label: 'Discord' }

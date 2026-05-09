@@ -79,13 +79,13 @@ const ContactMe = () => {
     {
       icon: 'phone',
       label: 'Phone',
-      value: '+91 98765 43210',
+      value: '+91 ',
       link: 'tel:+919876543210'
     },
     {
       icon: 'location',
       label: 'Location',
-      value: 'Mumbai, India',
+      value: 'Indore, India',
       link: null
     }
   ];
@@ -163,10 +163,10 @@ const ContactMe = () => {
               <div className="social-section">
                 <h3 className="social-title">Follow Me</h3>
                 <div className="social-links">
-                  <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="social-link">
+                  <a href="https://github.com/Palakmeena" target="_blank" rel="noopener noreferrer" className="social-link">
                     GitHub
                   </a>
-                  <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="social-link">
+                  <a href="https://www.linkedin.com/in/palak-meena-b01104245/" target="_blank" rel="noopener noreferrer" className="social-link">
                     LinkedIn
                   </a>
                   <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="social-link">
