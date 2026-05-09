@@ -1,4 +1,4 @@
-# Evren Shah - Portfolio Website
+# Palak Meena - Portfolio Website
 
 A modern, responsive portfolio website built with React, featuring smooth animations and a clean, professional design.
 
